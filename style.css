@@ -24,14 +24,14 @@ ul li {
 #wrapper{
  width: 970px;
  background-color: darkblue;
- margin: 0px;
+ margin: 5px;
  padding: 10px;
  /*overflow: hidden;*/
 }
 #header{
  height: 50px;
  background-color: red;
- border-radius: 10px;
+ border-radius: 15px;
  padding: 15px;
 }
 #body_block {
@@ -43,18 +43,18 @@ ul li {
  /*height: 250px;*/
  width: 200px;
  margin: 0px;
- padding: 5px;
+ padding: 10px;
  background-color: lightseagreen;
  display: inline-block;
- border-radius: 10px;
+ border-radius: 15px;
 }
 #main_content{
-    width: 725px;
+    width: 715px;
     margin: 0px;
     padding: 25px 10px;
     background-color: black;
     float: right;
-    border-radius: 10px;
+    border-radius: 15px;
 
 }
 
@@ -63,5 +63,5 @@ ul li {
  padding: 5px;
  background-color: dimgrey;
  display: block;
- border-radius: 10px;
+ border-radius: 15px;
 }
